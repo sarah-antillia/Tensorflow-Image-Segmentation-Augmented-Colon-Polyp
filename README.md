@@ -342,11 +342,10 @@ Evaluation console output:<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Colon-Polyp/asset/evaluate_console_output_at_epoch_70.png" width="720" height="auto">
 <br>
 <a href="./projects/TensorflowSlightlyFlexibleUNet/Colon-Polyp/evaluation.csv">evaluation.csv</a><br>
-The loss (bce_dice_loss) score for this test dataset is very low, and accuracy very heigh as shown below.<br>
+The loss (bce_dice_loss) score for this test dataset is relatively low, and accuracy heigh as shown below.<br>
 <pre>
-
-loss,0.0259
-binary_accuracy,0.9988
+loss,0.1956
+binary_accuracy,0.9692
 </pre>
 
 <h2>
