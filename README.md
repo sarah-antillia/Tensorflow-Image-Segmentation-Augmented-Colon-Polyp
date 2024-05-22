@@ -5,8 +5,7 @@ the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API
 <a href="https://drive.google.com/file/d/17HIaIJMwUNhtJLgpqWhlMdVU9XXoFdbO/view?usp=sharing">,
 Colon-Polyp-ImageMask-Dataset-V1.zip</a>
 , which was derived by us from the original 
- <a href="https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0"> 
-CVC-ClinicDB.rar</a>. 
+ <a href="https://polyp.grand-challenge.org/CVCClinicDB/">CVC-ClinicDB</a>. 
 <br>
 
 <br>
