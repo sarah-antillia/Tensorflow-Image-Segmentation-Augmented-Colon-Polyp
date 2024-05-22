@@ -229,7 +229,7 @@ distortions           = [0.03,]
 
 </pre>
 
-Please note that the online augementor <a href="./src/ImageMaskAugmentor.py">
+Please note that the online augmentor <a href="./src/ImageMaskAugmentor.py">
 ImageMaskAugmentor.py</a> reads the parameters in [generator] and [augmentor] sections, 
 and yields some images and mask depending on the batch_size,
  which are used for each epoch of the training and evaluation process of this UNet Model. 
@@ -261,7 +261,7 @@ rotated, <br>
 shrinked,<br>
 sheared, <br>
 deformed <br>
-and distorted images and masksfrom the original images and masks in the folders specified by image_datapath and mask_datapath in 
+and distorted images and masks from the original images and masks in the folders specified by image_datapath and mask_datapath in 
 [train] and [eval] sections.<br>
 <pre>
 [train]
@@ -312,6 +312,9 @@ Sample masks in generated_masks_dir<br>
  width="1024" height="auto"><br>
 
 <br>
+<br>
+The training process has been stopped at epoch 70 by Early-Stopping Callback as shown below.<br>
+
 Train console output:<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/Colon-Polyp/asset/train_console_output_at_epoch_70.png" width="720" height="auto"><br>
 
@@ -426,4 +429,14 @@ Lee, GE., Cho, J. & Choi, SI <br>
 <pre>
 https://www.nature.com/articles/s41598-023-42436-z
 </pre>
+
+<b>2. Dual encoder–decoder-based deep polyp segmentation network for colonoscopy images
+</b><br>
+Scientific Reports volume 13, Article number: 1183 (2023)<br>
+John Lewis, Young-Jin Cha & Jongho Kim <br>
+<pre>
+https://www.nature.com/articles/s41598-023-28530-2
+</pre>
+
+
 
