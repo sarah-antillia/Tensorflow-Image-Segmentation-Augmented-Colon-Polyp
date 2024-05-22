@@ -2,7 +2,7 @@
 
 This is an experimental Image Segmentation project for Colon-Polyp based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
-<a href="https://drive.google.com/file/d/17HIaIJMwUNhtJLgpqWhlMdVU9XXoFdbO/view?usp=sharing">,
+<a href="https://drive.google.com/file/d/17HIaIJMwUNhtJLgpqWhlMdVU9XXoFdbO/view?usp=sharing">
 Colon-Polyp-ImageMask-Dataset-V1.zip</a>
 , which was derived by us from the original 
  <a href="https://polyp.grand-challenge.org/CVCClinicDB/">CVC-ClinicDB</a>. 
